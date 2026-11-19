@@ -3,7 +3,13 @@
 A production-grade **React 19 + TypeScript + Tailwind CSS** platform backed by **Supabase PostgreSQL & Row Level Security (RLS)**, unifying 12 interactive cognitive and aptitude games into a full-fledged cloud gaming experience with live leaderboards, analytics, and achievements.
 
 ---
-
+## Created by :
+1. Darshdeep Singh Dutta 109
+2. Tejas Modi 143
+3. Aditya Korpakwad 123
+4. Shivam Kurunde 122
+5. Tanmay Gaidhani 113
+   
 ## 🔒 Enterprise & Cloud Security Architecture (Supabase & Frontend)
 
 The platform is designed following the **Principle of Least Privilege**, **OWASP ASVS Level 2 guidelines**, and defense-in-depth security standards:
